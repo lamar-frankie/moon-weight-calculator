@@ -22,7 +22,7 @@ def get_moon_fact():
      "The Moon is moving approximately 3.8 cm away from our planet every year.",
      "The Moon is 400 times smaller than the Sun,"
     ]
-    return moon_facts[random.randint(1,10)]
+    return moon_facts[random.randint(1,8)]
 
 
 
